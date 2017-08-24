@@ -1,0 +1,19 @@
+body{
+    max-width: 600px;
+    max-height: 600px;
+    background-color: grey;
+}
+
+.black{
+    background-color: #850000;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.white{
+    background-color: #ffffff;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
